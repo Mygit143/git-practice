@@ -1,4 +1,5 @@
-# this is for practice purpose
+this is for practice purpose
 hello guys i started learning git from scratch from cloud guru
 how are you guys?
 git show a single commitand git diff
+topic about git merge
