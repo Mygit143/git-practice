@@ -11,4 +11,3 @@ topic abou
 jingalala
 topic about git
 delete merge-demo
->>>>>>> first-branch
