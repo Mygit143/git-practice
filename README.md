@@ -12,6 +12,7 @@ jingalala
 topic about git
 delete merge-demo
 git conflict
-git remote 
+git remote
 git fetch commit
 there is a lot of practice
+hiee atom 
