@@ -13,3 +13,4 @@ topic about git
 delete merge-demo
 git conflict
 git remote 
+git fetch commit
